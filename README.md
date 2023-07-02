@@ -1,10 +1,10 @@
 # 2023-HYU-CSE2010-Data-Structures
 
 ## Lab1
-### Orientation
+Orientation
 
 ## Lab2
-###
+Structure
 
 ## Lab3
 ###

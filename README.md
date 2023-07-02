@@ -1,25 +1,43 @@
-# 2023-HYU-CSE2010-Data-Structures
+# 2023 HYU CSE2010 (Data Structures)
 
-## Lab1
+## Lab 1
 Orientation
 
-## Lab2
-Structure
+## Lab 2
+Dynamic Allocation And Structure
 
-## Lab3
-###
+## Lab 3
+Linked List
 
-## Lab3
-###
+## Lab 4
+Postfix Evaluation Using Stack
 
-## Lab4
-###
+## Lab 5
+Circular Queue
 
-## Lab5
-###
+## Lab 6
+Tree
 
-## Lab6
-###
+## Lab 7
+AVL Tree
 
-## Lab7
-###
+## Lab 8
+No Lab.
+
+## Lab 9
+Binary Max Heap
+
+## lab 10
+Maze (Using Union-Find)
+
+## lab 11
+Sorting (Merge Sort And Quick Sort)
+
+## lab 12
+Topological Sorting
+
+## lab 13
+Dijkstra's Algorithms
+
+## lab 14
+No Lab.

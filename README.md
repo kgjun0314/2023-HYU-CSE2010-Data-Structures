@@ -1,7 +1,7 @@
 # 2023 HYU CSE2010 (Data Structures)
 
 ## Lab 1
-Orientation
+Orientation, Git
 
 ## Lab 2
 Dynamic Allocation And Structure
